@@ -36,7 +36,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   height: 115vh;
-  background: #333 url('img/blog3.jpg') no-repeat center center/cover;
+  background: #333 url('blog3.jpg') no-repeat center center/cover;
   color: gray;
   overflow:hidden;
 
