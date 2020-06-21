@@ -51,7 +51,7 @@ body {
 }
 
 h1, h2 {
-	color: gray;
+	color: red;
   font-weight: 300;
   margin: 0.4rem;
 }
@@ -63,7 +63,7 @@ h1 {
 h2 {
 
   font-size: 2rem;
-  color: gray;
+  color: red;
   font-weight: 450;
 }
 
