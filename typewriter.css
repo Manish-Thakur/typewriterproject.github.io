@@ -1,0 +1,99 @@
+/* Nav Bar */
+
+.container{
+      padding-top: 10px;
+      margin: 100px auto;
+    }
+
+    .navbar-inverse .navbar-nav>li>a {
+    font-size: 20px;
+    
+    /*color: #2c3e50;*/
+}
+
+.container-fluid{
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+}
+
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+    /*color: white;*/
+}
+
+.navbar-inverse .navbar-brand {
+  font-size: 20px;
+    /*color: white;*/
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:200,100,400');
+
+body {
+  font-family: 'Raleway', sans-serif;
+  height: 115vh;
+  background: #333 url('img/blog3.jpg') no-repeat center center/cover;
+  color: gray;
+  overflow:hidden;
+
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 0 3rem;
+}
+
+h1, h2 {
+	color: gray;
+  font-weight: 300;
+  margin: 0.4rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+
+  font-size: 2rem;
+  color: gray;
+  font-weight: 450;
+}
+
+/* Cursor */
+.txt-type > .txt {
+  border-right: 0.2rem solid #777;
+}
+
+@media(min-width: 1200px) {
+  h1 {
+    font-size: 5rem;
+  }
+}
+
+@media(max-width: 800px) {
+  .container1 {
+    padding: 0 1rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+@media(max-width: 500px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
