@@ -51,10 +51,10 @@ body {
 }
 
 h1, h2 {
-	color: black;
+	color: gray;
   font-weight: 300;
   margin: 0.4rem;
-	text-align: center;
+/* 	text-align: center; */
 }
 
 h1 {
@@ -64,7 +64,7 @@ h1 {
 h2 {
 
   font-size: 2rem;
-  color: black;
+  color: gray;
   font-weight: 450;
 }
 
