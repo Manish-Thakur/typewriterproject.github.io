@@ -51,9 +51,10 @@ body {
 }
 
 h1, h2 {
-	color: white;
+	color: black;
   font-weight: 300;
   margin: 0.4rem;
+	text-align: center;
 }
 
 h1 {
@@ -63,7 +64,7 @@ h1 {
 h2 {
 
   font-size: 2rem;
-  color: white;
+  color: black;
   font-weight: 450;
 }
 
@@ -86,7 +87,7 @@ h2 {
   h1 {
     font-size: 3rem;
   }
-	h1,h2{color: white;}
+	h1,h2{color: black;}
 }
 
 @media(max-width: 500px) {
@@ -97,5 +98,5 @@ h2 {
   h2 {
     font-size: 1.5rem;
   }
-	h1,h2{color: white;}
+	h1,h2{color: black;}
 }
